@@ -18,7 +18,7 @@ Hello! I'm Oluwadare Kolade 🤓, a data analyst, educator, and consultant with 
 
 *A glimpse of some of the projects I've been working on.*
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**HR Dataset Excel Dashboard.**
 ![image](1 anietie etuk data analytics car project.jpeg)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
